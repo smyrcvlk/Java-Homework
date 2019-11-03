@@ -53,22 +53,7 @@ public class javasettask16 {
             System.out.println("no duplications");
 
 
-//        if(mySet.equals(4))
-//            System.out.println("has duplication");
-//        for (Integer obj:mySet) {
-//            if (mySet.contains(obj)) {
-//                mySet.add(obj);
-//                System.out.println("It has dups");
-//                break;
-//            }
-//        }
 
-//        HashSet<Integer> mySet2 = new HashSet<>();
-//
-//        mySet2.add(1);
-//        mySet2.add(2);
-//        mySet2.add(3);
-//        mySet2.add(4);
     }
 }
 
