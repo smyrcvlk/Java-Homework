@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class JavaArrayListtask10 {
+public class ArrayListtask10 {
     public static void main(String[] args) {
 
         //10. Write a Java program to shuffle elements in a array list.[advanced]
