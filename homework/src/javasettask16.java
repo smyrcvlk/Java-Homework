@@ -52,6 +52,16 @@ public class javasettask16 {
         else
             System.out.println("no duplications");
 
+//        System.out.println(list + " size:" + list.size());
+//
+//        HashSet<Integer> mySet = new HashSet<>(list);
+//        System.out.println(mySet + " size:" + mySet.size());
+//
+//        if (list.size() != mySet.size()) {
+//            System.out.println("has duplications");
+//        } else {
+//            System.out.println("no duplications");
+//        }
 
 
     }
