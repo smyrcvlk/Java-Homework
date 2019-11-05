@@ -1,14 +1,17 @@
 package day9;
 
-public class Homework {//TODO Task
-    // 1. Write program that gets two inputs from user then prints sum
-    // 2. Write simple calculator,
-    //     a. reads first input
-    //     b. reads operator (+, -, *, /)
-    //     c. reads second input
-    //     d. prints result
-    // 3. Write program that calculates from string:
-    //    ex: one plus nine => 10, four subtract 2 => 2
+public class Homework {
+    public static void main(String[] args) {
+
+
+        // 1. Write program that gets two inputs from user then prints sum
+        // 2. Write simple calculator,
+        //     a. reads first input
+        //     b. reads operator (+, -, *, /)
+        //     c. reads second input
+        //     d. prints result
+        // 3. Write program that calculates from string:
+        //    ex: one plus nine => 10, four subtract 2 => 2
 //
 //    public class Test {
 //        public static void main(String[] args)
@@ -19,7 +22,7 @@ public class Homework {//TODO Task
 //    }
 ////Options:
 ////1.TECHNO
-////2.Compile time error
+////2.Compile time error   "ANSWER IS 2"
 ////3.Run time Exception
 ////4.TECHNO (Infinitely)
 //
@@ -33,7 +36,7 @@ public class Homework {//TODO Task
 //    }
 ////Options:
 ////1.TECHNO TECHNO TECHNO
-////2.Compile time error
+////2.Compile time error  "ANSWER IS 2"
 ////3.TECHNO (Infinitely)
 ////4.No output
 //
@@ -50,13 +53,13 @@ public class Homework {//TODO Task
 //    }
 ////Option:
 ////1.HELLO
-////2.BYE
+////2.BYE   "ANSWER IS 2"
 ////3.Compile time error: re- initialization
 ////4.No output
 //
 //    public class Test {
 //        public
-//        static void main(String[] args)
+        // static void main(String[] args)
 //        {
 //            int a = 10, b = 20;
 //            if (a < b) {
@@ -70,7 +73,7 @@ public class Homework {//TODO Task
 //    }
 ////Option:
 ////1.HELLO TECHNO
-////2.WELCOME
+////2.WELCOME   "ANSWER IS 2"
 ////3.Compile time error
 ////4.HELLO TECHNO WELCOME
 //
@@ -87,7 +90,7 @@ public class Homework {//TODO Task
 ////1. HIII
 ////2. HIII(infinitely)
 ////3. BYE
-////4. Compile time error
+////4. Compile time error  "ANSWER IS 4"
 
-
+    }
 }
