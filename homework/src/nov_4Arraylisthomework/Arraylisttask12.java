@@ -1,9 +1,11 @@
+package nov_4Arraylisthomework;
+
 import java.util.ArrayList;
+import java.util.List;
 
-public class Arraylisttask18 {
+public class Arraylisttask12 {
     public static void main(String[] args) {
-        //18. Write a Java program to test an array list is empty or not.
-
+        //12. Write a Java program to extract a portion of a array list.
         ArrayList<String> colors= new ArrayList<>();
         colors.add("red");
         colors.add("green");
@@ -11,9 +13,8 @@ public class Arraylisttask18 {
         colors.add("white");
         colors.add("black");
         System.out.println(colors);
+        List<String> sub_list= colors.subList(0,2);
+        System.out.println(sub_list);
 
-        colors.removeAll(colors);
-
-        System.out.println("array list after " + colors.isEmpty());
     }
 }

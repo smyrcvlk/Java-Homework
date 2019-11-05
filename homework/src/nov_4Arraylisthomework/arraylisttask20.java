@@ -1,3 +1,5 @@
+package nov_4Arraylisthomework;
+
 import java.util.ArrayList;
 
 public class arraylisttask20 {

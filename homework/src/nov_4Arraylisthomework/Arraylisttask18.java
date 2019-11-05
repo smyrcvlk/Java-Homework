@@ -1,8 +1,10 @@
+package nov_4Arraylisthomework;
+
 import java.util.ArrayList;
 
-public class Arraylisttask16 {
+public class Arraylisttask18 {
     public static void main(String[] args) {
-        //16. Write a Java program to clone an array list to another array list.
+        //18. Write a Java program to test an array list is empty or not.
 
         ArrayList<String> colors= new ArrayList<>();
         colors.add("red");
@@ -10,13 +12,10 @@ public class Arraylisttask16 {
         colors.add("Orange");
         colors.add("white");
         colors.add("black");
-
         System.out.println(colors);
 
-        ArrayList<String> newcolors= (ArrayList< String>)colors.clone();
+        colors.removeAll(colors);
 
-        System.out.println(newcolors);
-
-
+        System.out.println("array list after " + colors.isEmpty());
     }
 }

@@ -1,18 +1,24 @@
-import java.util.ArrayList;
-import java.util.List;
+package nov_4Arraylisthomework;
 
-public class Arraylisttask12 {
+import java.util.ArrayList;
+
+public class Arraylisttask16 {
     public static void main(String[] args) {
-        //12. Write a Java program to extract a portion of a array list.
+        //16. Write a Java program to clone an array list to another array list.
+
         ArrayList<String> colors= new ArrayList<>();
         colors.add("red");
         colors.add("green");
         colors.add("Orange");
         colors.add("white");
         colors.add("black");
+
         System.out.println(colors);
-        List<String> sub_list= colors.subList(0,2);
-        System.out.println(sub_list);
+
+        ArrayList<String> newcolors= (ArrayList< String>)colors.clone();
+
+        System.out.println(newcolors);
+
 
     }
 }
