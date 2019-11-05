@@ -1,3 +1,5 @@
+package nov_4hashsethomework;
+
 import java.util.HashSet;
 
 public class hashset12 {
