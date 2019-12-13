@@ -4,7 +4,7 @@ public class HomeworkIfElseSwitch {
     public static void main(String[] args) {
         // highlight ctrl + /
 //    public static void main(String[] args) {
-        int x = 10;
+    //    int x = 10;
 
 //       Boolean myVal = false;
 //        if(myVal==true)

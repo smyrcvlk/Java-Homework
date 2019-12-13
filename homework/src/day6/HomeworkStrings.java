@@ -1,6 +1,6 @@
 package day6;
 
-//public class HomeworkStrings {
+public class HomeworkStrings {
    // public static void main(String[] args) {
         //    What is the numerical range of a char data type in Java?
 //    a) -128 to 127
@@ -50,4 +50,4 @@ package day6;
 //    d) All of the mentioned  answer d
 
  //   }
-//}
+}
